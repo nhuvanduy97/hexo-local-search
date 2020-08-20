@@ -1,0 +1,29 @@
+{
+  "name": "hexo-local-search",
+  "version": "1.0.0",
+  "description": "plugin local search ",
+  "main": "index.js",
+  "directories": {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhuvanduy97/hexo-local-search.git"
+  },
+  "keywords": [
+    "search\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dhexo-local-search"
+  ],
+  "author": "nhuvanduy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhuvanduy97/hexo-local-search/issues"
+  },
+  "homepage": "https://github.com/nhuvanduy97/hexo-local-search#readme",
+  "dependencies": {
+    "nunjucks": "^3.2.2",
+    "utils-merge": "^1.0.1"
+  }
+}
